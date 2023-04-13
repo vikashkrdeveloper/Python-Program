@@ -1,0 +1,10 @@
+a=int(input("Enter the a number"))
+b=int(input("Enter the b number"))
+c=int(input("Enter the c number"))
+d=int(input("Enter the d number"))
+e=int(input("Enter the e number"))
+f=int(input("Enter the f number"))
+g=int(input("Enter the g number"))
+h=int(input("Enter the h number"))
+unique={a,b,c,d,e,f,g,h}
+print(unique)
